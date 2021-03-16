@@ -1,0 +1,2 @@
+# coolbeans
+Discord bot
