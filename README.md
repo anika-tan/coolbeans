@@ -1,5 +1,5 @@
 # coolbeans (ongoing)
-A Discord bot for (hopefully) "the full bullpen" guild.
+A Discord bot
 \
 \
 Prefix: -
